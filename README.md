@@ -20,7 +20,7 @@ it should ask if you want system info the persons pc (yes or no)
 it should ask if you want web cam pic (yes or no)
 it should ask for your discord webhook just paste it in there
 now it should of created Main.py
-create a new folder and copy and paste the options.txt in there do the same wih the installer
+create a new folder and copy and paste the options.txt in there do the same with the installer
 and also put the Main.py in there
 
 any questions feel free to dm me on discord c3pe
