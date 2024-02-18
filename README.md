@@ -11,7 +11,7 @@ How to use:
 First make sure you have python https://www.python.org/downloads/
 once in the setup select Add python.exe to PATH
 then click Install Now
-then do .py and finsh installing the rest
+then do .py and finish installing the rest
 then open up the Installer bat file
 then open up the Builder.py
 it should welcome you
